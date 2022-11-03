@@ -1,0 +1,41 @@
+html, body {
+    background-color: black;
+      background-image: url("háttér kép"); ide kép kell 
+      background-color: #cccccc; 
+      height: 200px; 
+      background-position: center;
+      background-repeat: no-repeat; 
+      background-size: cover; 
+      height: 100%;
+      width: 100%;
+    
+    
+    
+    
+    }
+    h1 {
+      color:brown;
+      text-align: center;
+    }
+    h2{
+      color:pink;
+      text-align: center;
+    }
+    p1{
+      color:white;
+      text-align: center;
+    }
+    
+    p2{
+      color:white;
+      text-align: center;
+    }
+    p4{
+      color:white;
+      text-align: center;
+    }
+    script{
+      color:white;
+      text-align: center;
+    }
+    
